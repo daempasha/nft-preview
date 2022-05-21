@@ -27,7 +27,7 @@ function App() {
           cost={"0.041"}
           description="Our Equilibrium collection promotes balance and calm."
           expiryDate="3 days"
-          creator="Jules Wyvern"
+          creator="John Doe"
           creatorImage={Avatar}
         />
       </MainContainer>
